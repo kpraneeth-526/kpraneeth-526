@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Full-stack agriculture platform featuring interactive field mapping, farm management dashboards, and a TensorFlow/Keras CNN (86% accuracy) that delivers automated crop disease diagnostics via Flask.
+
+Repo: https://github.com/psamin/crop2.0
+
 <!--
 **kpraneeth-526/kpraneeth-526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
