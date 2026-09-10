@@ -9,6 +9,9 @@ Full-stack agriculture platform featuring interactive field mapping, farm manage
 
 
 ## AI Mini-Projects
+
+Here are all the AI mini projects I have done over the past two years covering Data analysis, supervised & unsupervised machine learning, deep learning, and neural networks.
+
 | REPO|
 | :--- |
 | **[![Link]()](https://github.com/kpraneeth-526/AI_Folder/blob/main/README.md)** |
