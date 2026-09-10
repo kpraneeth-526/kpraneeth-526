@@ -1,4 +1,4 @@
-## Hi there 👋
+## Crop AI
 
 Full-stack agriculture platform featuring interactive field mapping, farm management dashboards, and a TensorFlow/Keras CNN (86% accuracy) that delivers automated crop disease diagnostics via Flask.
 
@@ -6,6 +6,12 @@ Full-stack agriculture platform featuring interactive field mapping, farm manage
 | REPO|
 | :--- |
 | **[![Link]()](https://github.com/psamin/crop2.0/blob/main/README.md)** |
+
+
+## AI Mini-Projects
+| REPO|
+| :--- |
+| **[![Link]()](https://github.com/kpraneeth-526/AI_Folder/blob/main/README.md)** |
 <!--
 **kpraneeth-526/kpraneeth-526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
