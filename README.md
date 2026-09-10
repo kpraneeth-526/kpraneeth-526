@@ -15,6 +15,14 @@ Here are all the AI mini projects I have done over the past two years covering D
 | REPO|
 | :--- |
 | **[![Link]()](https://github.com/kpraneeth-526/AI_Folder/blob/main/README.md)** |
+
+## Predictive Maintenance Engine
+**Currently working** 
+
+I am working on a predictive maintenance engine project utilizing Python, Pandas, Scikit-learn, and Matplotlib. The system processes NASA's CMAPSS turbofan datasets to track equipment degradation, visualize sensor trends, and build regression models for predicting remaining useful life. It will all be displayed on an interface.
+
+Dataset link: https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
+
 <!--
 **kpraneeth-526/kpraneeth-526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
